@@ -34,6 +34,20 @@ Questions needs to be answered
 5. Able to navigate interdependencies across roles, activities, and levels – Example: Can you foresee what’s going to be needed from different groups (Finance, Support, Facilities, Development, Ops, Product, etc.) and who in those teams need to be kept up-to-date with ongoing events?
 6. Recognize the need to learn new ways to adapt – Example: Will you know when it’s time to include new items in training incoming engineers, as failure scenarios and ways of working change in the organization and infrastructure?
 
+- Monitoring
+This is knowing what to look for, and dealing with the critical in systems. Not just the mechanics of servers and networks and applications, but monitoring in the organizational sense. Anomaly detection and metrics collection and alerting are obviously part of this, and should be familiar to anyone expecting their web application to be operable.
+
+But in addition to this, we’re talking as well about meta-metrics on the operations and activities of both infrastructure and staff.
+
+Things like:
+
+1. How might an team measure its cognitive load during an outage, in order to detect when it is drifting?
+2. Are there any gaps that appear in a team’s coordinative or collaborative abilities, over time?
+3. Can the organization detect when there are goal conflicts (example: accelerating production schedules in the face of creeping scope) quickly enough to make them explicit and do something about them?
+4. What leading or lagging indicators could you use to gauge whether or not the performance demand of a team is beyond what could be deemed “normal” for the size and scale it has?
+5. How might you tell if a team is becoming complacent with respect to safety, when incidents decrease? (“We’re fine! Look, we haven’t had an outage for months!”)
+6. How can you confirm that engineers are being ramped up adequately to being productive and adaptive in a team?
+
 #### Resources
 1. [](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=17&ved=0ahUKEwicncnEhc_TAhVI04MKHZU1DaI4ChAWCE0wBg&url=https%3A%2F%2Fwww.unf.edu%2F~broggio%2Fcen6016%2Fclassnotes%2F1-SoftwareEngineeringandBestPractices.ppt&usg=AFQjCNE1AymHU77LZBIGOWFNxfCOBo179A&cad=rja)
 

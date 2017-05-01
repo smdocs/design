@@ -19,6 +19,7 @@ classes)
 ![](http://www.kitchensoap.com/wp-content/uploads/2012/06/Screen-Shot-2012-06-12-at-8.43.57-AM2.png)
 
 <b>Anticipation</b>
+
 1. Functional and Architectural Reviews These are meetings open to all of engineering that we have when there’s a new pattern being used or a new type of technology being introduced, and why. We gather up people proposing the ideas, and then spend time shooting holes into it with the goal of making the solution stronger than it might have been on its own. We’d also entertain what we’d do if things didn’t go according to plan with the idea. We take adopting new technologies very seriously, so this doesn’t happen very often.
 
 2. Go or No-Go Meetings (a.k.a. Operability Reviews) These are where we gather up representative folks (at least someone from Support, Community, Product, and obviously Engineering) to discuss some fundamentals on a public-facing change, and walk through any contingencies that might need to happen. Trick is – in order to get contingencies as part of the discussion, you have to name the circumstances where they’d come up.
@@ -34,8 +35,7 @@ Questions needs to be answered
 5. Able to navigate interdependencies across roles, activities, and levels – Example: Can you foresee what’s going to be needed from different groups (Finance, Support, Facilities, Development, Ops, Product, etc.) and who in those teams need to be kept up-to-date with ongoing events?
 6. Recognize the need to learn new ways to adapt – Example: Will you know when it’s time to include new items in training incoming engineers, as failure scenarios and ways of working change in the organization and infrastructure?
 
-<b>Monitoring</b>
-This is knowing what to look for, and dealing with the critical in systems. Not just the mechanics of servers and networks and applications, but monitoring in the organizational sense. Anomaly detection and metrics collection and alerting are obviously part of this, and should be familiar to anyone expecting their web application to be operable.
+<b>Monitoring</b> This is knowing what to look for, and dealing with the critical in systems. Not just the mechanics of servers and networks and applications, but monitoring in the organizational sense. Anomaly detection and metrics collection and alerting are obviously part of this, and should be familiar to anyone expecting their web application to be operable.
 
 But in addition to this, we’re talking as well about meta-metrics on the operations and activities of both infrastructure and staff.
 
@@ -48,12 +48,9 @@ Things like:
 5. How might you tell if a team is becoming complacent with respect to safety, when incidents decrease? (“We’re fine! Look, we haven’t had an outage for months!”)
 6. How can you confirm that engineers are being ramped up adequately to being productive and adaptive in a team?
 
-<b>Response</b>
-This is knowing what to do, and dealing with the actual in systems. Whether you’ve anticipated a perturbation or disturbance, as long as you can detect it, than you have something to respond to. How do you? Page the on-call engineer? Are you the on-call engineer? Response is fundamental to working in web operations, and differential diagnosis is just as applicable to troubleshooting complex systems as it is
+<b>Response</b> This is knowing what to do, and dealing with the actual in systems. Whether you’ve anticipated a perturbation or disturbance, as long as you can detect it, than you have something to respond to. How do you? Page the on-call engineer? Are you the on-call engineer? Response is fundamental to working in web operations, and differential diagnosis is just as applicable to troubleshooting complex systems as it is
 
-<b>Learning</b>
-
-This is knowing what has happened, and dealing with the factual in systems.  Everyone wants to believe that their team or group or company has the ability to learn, right? A hallmark of good engineering is empirical observation that results in future behavior changes. Like I mentioned above, this is the place where Post-Mortems usually come into play. At this point I think our field ought to be familiar with Post-Mortem meetings and the general structure and goal of them: to glean as much information about an incident, an outage, a surprising result, a mistake, etc. and spread those observations far and wide within the organization in order to prevent them from happening in the future.
+<b>Learning</b> This is knowing what has happened, and dealing with the factual in systems.  Everyone wants to believe that their team or group or company has the ability to learn, right? A hallmark of good engineering is empirical observation that results in future behavior changes. Like I mentioned above, this is the place where Post-Mortems usually come into play. At this point I think our field ought to be familiar with Post-Mortem meetings and the general structure and goal of them: to glean as much information about an incident, an outage, a surprising result, a mistake, etc. and spread those observations far and wide within the organization in order to prevent them from happening in the future.
 
 I’m obviously a huge fan of Post-Mortems and what they can do to improve an organization’s behavior and performance. But a lesser-known tool for learning is the “Near-Miss” opportunities we see in normal, everyday work. An engineer performs an action, and realizes later that it was wrong or somehow produced a result that is surprising. When those happen, we can hold them up high, for all to see and learn from. Did they cause damage? No, that’s why they “missed.”
 

@@ -48,6 +48,20 @@ Things like:
 5. How might you tell if a team is becoming complacent with respect to safety, when incidents decrease? (“We’re fine! Look, we haven’t had an outage for months!”)
 6. How can you confirm that engineers are being ramped up adequately to being productive and adaptive in a team?
 
+- Response
+This is knowing what to do, and dealing with the actual in systems. Whether you’ve anticipated a perturbation or disturbance, as long as you can detect it, than you have something to respond to. How do you? Page the on-call engineer? Are you the on-call engineer? Response is fundamental to working in web operations, and differential diagnosis is just as applicable to troubleshooting complex systems as it is
+
+- Learning
+Learning
+This is knowing what has happened, and dealing with the factual in systems.  Everyone wants to believe that their team or group or company has the ability to learn, right? A hallmark of good engineering is empirical observation that results in future behavior changes. Like I mentioned above, this is the place where Post-Mortems usually come into play. At this point I think our field ought to be familiar with Post-Mortem meetings and the general structure and goal of them: to glean as much information about an incident, an outage, a surprising result, a mistake, etc. and spread those observations far and wide within the organization in order to prevent them from happening in the future.
+
+I’m obviously a huge fan of Post-Mortems and what they can do to improve an organization’s behavior and performance. But a lesser-known tool for learning is the “Near-Miss” opportunities we see in normal, everyday work. An engineer performs an action, and realizes later that it was wrong or somehow produced a result that is surprising. When those happen, we can hold them up high, for all to see and learn from. Did they cause damage? No, that’s why they “missed.”
+
+One of the godfathers of cognitive engineering, James Reason, said that “near-miss” events are excellent learning opportunities for organizations, because they:
+
+Can act like safety “vaccines” for an organization, because they are just a little bit of failure that doesn’t really hurt.
+They happen much more often than actual systemic failures, so they provide a lot more data on latent failures.
+They are a powerful reminder of hazards, therefore keeping the “constant sense of unease” that is needed to provide resilience in a system.
 #### Resources
 1. [](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=17&ved=0ahUKEwicncnEhc_TAhVI04MKHZU1DaI4ChAWCE0wBg&url=https%3A%2F%2Fwww.unf.edu%2F~broggio%2Fcen6016%2Fclassnotes%2F1-SoftwareEngineeringandBestPractices.ppt&usg=AFQjCNE1AymHU77LZBIGOWFNxfCOBo179A&cad=rja)
 

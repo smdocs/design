@@ -63,4 +63,8 @@ They are a powerful reminder of hazards, therefore keeping the “constant sense
 #### Resources
 1. [](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=17&ved=0ahUKEwicncnEhc_TAhVI04MKHZU1DaI4ChAWCE0wBg&url=https%3A%2F%2Fwww.unf.edu%2F~broggio%2Fcen6016%2Fclassnotes%2F1-SoftwareEngineeringandBestPractices.ppt&usg=AFQjCNE1AymHU77LZBIGOWFNxfCOBo179A&cad=rja)
 
+2. [Kate Mats Blog](http://katemats.com/)
+
+3. [Kitchen Soup Blog](http://www.kitchensoap.com/)
+
 2 [USE method](http://www.brendangregg.com/USEmethod/use-linux.html)

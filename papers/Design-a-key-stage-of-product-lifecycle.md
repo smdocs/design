@@ -15,6 +15,9 @@ classes)
 #### The NPD Best Practices Framework
 ![](npd-best-practices.jpg)
 
+#### Four cornerstones of Resilience
+![](http://www.kitchensoap.com/wp-content/uploads/2012/06/Screen-Shot-2012-06-12-at-8.43.57-AM2.png)
+
 #### Resources
 1. [](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=17&ved=0ahUKEwicncnEhc_TAhVI04MKHZU1DaI4ChAWCE0wBg&url=https%3A%2F%2Fwww.unf.edu%2F~broggio%2Fcen6016%2Fclassnotes%2F1-SoftwareEngineeringandBestPractices.ppt&usg=AFQjCNE1AymHU77LZBIGOWFNxfCOBo179A&cad=rja)
 

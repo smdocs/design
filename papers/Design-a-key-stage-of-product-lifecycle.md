@@ -11,3 +11,4 @@ classes)
 - S (Structure): class, components and deployment diagrams
 
 #### The NPD Best Practices Framework
+![](npd-best-practices.jpg)

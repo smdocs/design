@@ -34,7 +34,7 @@ Questions needs to be answered
 5. Able to navigate interdependencies across roles, activities, and levels – Example: Can you foresee what’s going to be needed from different groups (Finance, Support, Facilities, Development, Ops, Product, etc.) and who in those teams need to be kept up-to-date with ongoing events?
 6. Recognize the need to learn new ways to adapt – Example: Will you know when it’s time to include new items in training incoming engineers, as failure scenarios and ways of working change in the organization and infrastructure?
 
-- Monitoring
+<b>Monitoring</b>
 This is knowing what to look for, and dealing with the critical in systems. Not just the mechanics of servers and networks and applications, but monitoring in the organizational sense. Anomaly detection and metrics collection and alerting are obviously part of this, and should be familiar to anyone expecting their web application to be operable.
 
 But in addition to this, we’re talking as well about meta-metrics on the operations and activities of both infrastructure and staff.
@@ -48,11 +48,11 @@ Things like:
 5. How might you tell if a team is becoming complacent with respect to safety, when incidents decrease? (“We’re fine! Look, we haven’t had an outage for months!”)
 6. How can you confirm that engineers are being ramped up adequately to being productive and adaptive in a team?
 
-- Response
+<b>Response</b>
 This is knowing what to do, and dealing with the actual in systems. Whether you’ve anticipated a perturbation or disturbance, as long as you can detect it, than you have something to respond to. How do you? Page the on-call engineer? Are you the on-call engineer? Response is fundamental to working in web operations, and differential diagnosis is just as applicable to troubleshooting complex systems as it is
 
-- Learning
-Learning
+<b>Learning</b>
+
 This is knowing what has happened, and dealing with the factual in systems.  Everyone wants to believe that their team or group or company has the ability to learn, right? A hallmark of good engineering is empirical observation that results in future behavior changes. Like I mentioned above, this is the place where Post-Mortems usually come into play. At this point I think our field ought to be familiar with Post-Mortem meetings and the general structure and goal of them: to glean as much information about an incident, an outage, a surprising result, a mistake, etc. and spread those observations far and wide within the organization in order to prevent them from happening in the future.
 
 I’m obviously a huge fan of Post-Mortems and what they can do to improve an organization’s behavior and performance. But a lesser-known tool for learning is the “Near-Miss” opportunities we see in normal, everyday work. An engineer performs an action, and realizes later that it was wrong or somehow produced a result that is surprising. When those happen, we can hold them up high, for all to see and learn from. Did they cause damage? No, that’s why they “missed.”
@@ -62,6 +62,7 @@ One of the godfathers of cognitive engineering, James Reason, said that “near-
 Can act like safety “vaccines” for an organization, because they are just a little bit of failure that doesn’t really hurt.
 They happen much more often than actual systemic failures, so they provide a lot more data on latent failures.
 They are a powerful reminder of hazards, therefore keeping the “constant sense of unease” that is needed to provide resilience in a system.
+
 #### Resources
 1. [](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=17&ved=0ahUKEwicncnEhc_TAhVI04MKHZU1DaI4ChAWCE0wBg&url=https%3A%2F%2Fwww.unf.edu%2F~broggio%2Fcen6016%2Fclassnotes%2F1-SoftwareEngineeringandBestPractices.ppt&usg=AFQjCNE1AymHU77LZBIGOWFNxfCOBo179A&cad=rja)
 

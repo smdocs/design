@@ -18,7 +18,7 @@ classes)
 #### Four cornerstones of Resilience
 ![](http://www.kitchensoap.com/wp-content/uploads/2012/06/Screen-Shot-2012-06-12-at-8.43.57-AM2.png)
 
-- Anticipation
+<b>Anticipation</b>
 1. Functional and Architectural Reviews These are meetings open to all of engineering that we have when there’s a new pattern being used or a new type of technology being introduced, and why. We gather up people proposing the ideas, and then spend time shooting holes into it with the goal of making the solution stronger than it might have been on its own. We’d also entertain what we’d do if things didn’t go according to plan with the idea. We take adopting new technologies very seriously, so this doesn’t happen very often.
 
 2. Go or No-Go Meetings (a.k.a. Operability Reviews) These are where we gather up representative folks (at least someone from Support, Community, Product, and obviously Engineering) to discuss some fundamentals on a public-facing change, and walk through any contingencies that might need to happen. Trick is – in order to get contingencies as part of the discussion, you have to name the circumstances where they’d come up.

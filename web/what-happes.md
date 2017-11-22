@@ -1,4 +1,4 @@
-# What happens when you type www.(amazon|google|yahoo).com in your browser and press return?
+# What happens when you type www.(yahoo).com in your browser and press return?
 
 1. Browser parses the url
 2. DNS Lookup may lead to ARP 
